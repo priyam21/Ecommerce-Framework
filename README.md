@@ -22,7 +22,7 @@ ChromeDriver compatible with your Chrome version
 **Setup Instructions**
 
    **Clone the Repository**
-    git clone <your-repo-url>
+    git clone https://github.com/priyam21/Ecommerce-Framework.git
   
    **Install Dependencies**
     pip install -r requirements.txt
